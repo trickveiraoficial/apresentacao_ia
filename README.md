@@ -3,9 +3,6 @@
 This project is a simple front-end web application built using Streamlit. It features a modern and futuristic design, showcasing a clean layout with a centered YouTube video.
 
 
-
-   ```
-
 ## Running the Application
 
 To run the Streamlit application, execute the following command in your terminal:

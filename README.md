@@ -3,25 +3,7 @@
 This project is a simple front-end web application built using Streamlit. It features a modern and futuristic design, showcasing a clean layout with a centered YouTube video.
 
 
-## Installation
 
-To get started with this project, you need to have Python installed on your machine. Follow these steps to set up the environment:
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd streamlit-website
-   ```
-
-2. Create a virtual environment (optional but recommended):
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
    ```
 
 ## Running the Application

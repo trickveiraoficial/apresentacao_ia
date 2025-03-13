@@ -2,15 +2,6 @@
 
 This project is a simple front-end web application built using Streamlit. It features a modern and futuristic design, showcasing a clean layout with a centered YouTube video.
 
-## Project Structure
-
-```
-streamlit-website
-├── src
-│   ├── app.py          # Main application file for the Streamlit website
-├── requirements.txt    # Lists the dependencies required for the project
-└── README.md           # Documentation for the project
-```
 
 ## Installation
 

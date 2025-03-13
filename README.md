@@ -29,7 +29,7 @@ To get started with this project, you need to have Python installed on your mach
 To run the Streamlit application, execute the following command in your terminal:
 
 ```
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 This will start the Streamlit server, and you can view the application in your web browser at `http://localhost:8501`.
